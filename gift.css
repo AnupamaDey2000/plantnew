@@ -1,0 +1,248 @@
+body{
+    background-color: rgb(58, 58, 58);
+
+}
+
+
+
+.h{
+   
+    width: 1425px;
+    object-fit: cover;
+    text-align: center;
+    padding-top: 15em;
+    
+
+    text-decoration: none;
+    margin-left: 0px;
+    margin-top: 0%;
+    margin-right: 0%;
+    margin-bottom: 2%;
+
+}
+
+
+.header{
+    display: inline-block;
+    float: left;
+    margin-right:30px;
+    padding-top: 5px;
+    
+    padding-left: 5em;
+   position: absolute;
+   top: 26px;
+   left:2px;
+    font-size: 1em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+     
+     
+ 
+}
+#nav{
+    color: aliceblue;
+     text-decoration:none;
+     word-spacing: 0em;
+
+}
+
+.header1{
+    display: inline-block;
+    position: absolute;
+   top:16px;
+   left: 500px;
+    text-decoration: none;
+    margin-right:30px;
+    padding-top: 15px;
+    ;
+    padding-left: 5em;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+     word-spacing: 1em;
+ 
+}
+
+
+.header2{
+    display: inline-block;
+    position: absolute;
+   top: 16px;
+   right:150px;
+  
+   
+    margin-right:30px;
+    padding-top: 15px;
+    
+    padding-left: 5em;
+
+
+}
+.header3{
+    display: inline-block;
+    position: absolute;
+   top: 22px;
+   right:120px;
+  
+   
+    margin-right:30px;
+    padding-top: 15px;
+
+    padding-left: 5em;
+
+}
+.header4{
+    display: inline-block;
+    position: absolute;
+   top: 24px;
+   right:90px;
+  
+   
+    margin-right:30px;
+    padding-top: 15px;
+   
+    padding-left: 5em;
+
+}
+.header5{
+    display: inline-block;
+    position: absolute;
+   top: 21px;
+   right:55px;
+  
+   
+    margin-right:30px;
+    padding-top: 15px;
+  
+    padding-left: 5em;
+
+}
+
+.a{
+    text-align: left;
+    color:white;
+    padding-left: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    
+}
+.a1{
+    padding-top: 40px;
+    padding-bottom:40px;
+
+    background-color:rgb(58, 58, 58); 
+    text-align: left;
+    padding-top: 30px;
+    padding-bottom: 70px;
+    padding-left: 80px;
+    font-size: 1em;
+    color: rgb(253, 253, 253);
+    font-weight: lighter;
+    line-height: 30px;
+    flex-basis: 30%;
+    width: 50%;
+    
+     float: left;
+
+}   
+.a3{
+    background-color:rgb(58, 58, 58); 
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 200px;
+    padding-left: 80px;
+    font-size: 1em;
+    color: rgb(253, 253, 253);
+    font-weight: lighter;
+    line-height: 30px;
+    flex-basis: 30%;
+    margin-left: 50%; 
+} 
+    
+#four{
+    padding-left:70px;
+    
+}
+.a2{
+    text-align: left;
+    color: white;
+    padding-bottom: 100px;
+}
+
+.hhh{
+    padding-left: 40px;
+    padding-top: 80px;
+
+}
+.column1{
+    float:left;
+    width: 25%;
+    text-align: center;
+  
+}
+.row1::after{
+    content:"";
+    display:table;
+    clear: both;
+}
+.a7{
+    background-color:rgb(58, 58, 58); 
+    text-align: left;
+    padding-top: 30px;
+    padding-bottom: 70px;
+    padding-left: 80px;
+    font-size: 1em;
+    color: rgb(253, 253, 253);
+    font-weight: lighter;
+    line-height: 30px;
+    flex-basis: 30%;
+    width: 50%;
+    
+     float: left;
+}
+.a8{
+    background-color:rgb(58, 58, 58); 
+    text-align: right;
+    padding-top: 60px;
+    padding-bottom: 70px;
+    padding-left: 80px;
+    font-size: 1em;
+    color: rgb(253, 253, 253);
+    font-weight: lighter;
+    line-height: 30px;
+    flex-basis: 30%;
+    margin-left: 50%; 
+   
+}
+.footer2{
+    text-align: right;
+    color: rgb(255, 255, 255);
+  
+    padding-right: 100px;
+}
+.p{
+    text-align: center;
+}
+#now{
+    background-color: #a8a6a1; /* Grey */
+    border: none;
+    color: white;
+    padding: 25px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+    
+
+
+}
+#now:hover{
+    background-color: #bdbcb9;
+}
+.b{
+    color: rgb(143, 145, 146);
+}
